@@ -9,8 +9,8 @@ individuales para cada integrante, permitiendo el desarrollo y la prueba aislada
 Se realizaron varios commits y se consolidaron los aportes individuales.
 
 Los integrantes del grupo 14 son:
-Jonathan Oliver Morales Piña
-Josías Diaz Ruíz
-Juan Pablo Zambrano Hernández
-Laura Leandra Beltrán Castrillón
-Luis Guillermo Londoño Catamo
+Jonathan Oliver Morales Piña,
+Josías Diaz Ruíz,
+Juan Pablo Zambrano Hernández,
+Laura Leandra Beltrán Castrillón,
+Luis Guillermo Londoño Catamo.
