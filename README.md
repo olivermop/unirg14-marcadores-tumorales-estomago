@@ -8,9 +8,16 @@ Realizamos una estructura de carpetas para organizar esta simulacion de proyecto
 individuales para cada integrante, permitiendo el desarrollo y la prueba aislada de cada componente sin comprometer la rama principal.
 Se realizaron varios commits y se consolidaron los aportes individuales.
 
+## Desarrolladores Grupo 14
+
 Los integrantes del grupo 14 son:
-Jonathan Oliver Morales Piña,
-Josías Diaz Ruíz,
-Juan Pablo Zambrano Hernández,
-Laura Leandra Beltrán Castrillón,
-Luis Guillermo Londoño Catamo.
+
+| #   | Nombre completo                  | Rol en el proyecto                      | Usuario de GitHub |
+| --- | -------------------------------- | --------------------------------------- | ----------------- |
+| 1   | Jonathan Oliver Morales Piña     | Líder del proyecto                      | olivermop         |
+| 2   | Josías Diaz Ruíz                 | Control de datos y marcadores tumorales | JDIAZR1           |
+| 3   | Laura Leandra Beltrán Castrillón | Desarrollo de scripts y marco teórico   | Laurabelt17       |
+| 4   | Luis Guillermo Londoño Catamo    | Análisis de datos                       | luisglondonoc     |
+| 5   | Juan Pablo Zambrano Hernández    | Control de Calidad                      | jpzambrano89      |
+
+Correspondencia a correoliver@ejemplo.com
